@@ -4,4 +4,3 @@ I’m currently interested in Backend Engineering and currently learning JavaScr
 
 You can reach me via: 
 - Twitter/X [@GilangBramasta](https://twitter.com/GilangBramasta)
-- Mastodon [@gilangbrmsta@mstdn.id](https://mstdn.id/@gilangbrmsta)
